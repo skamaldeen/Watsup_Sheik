@@ -2,3 +2,5 @@ Watsup Project
 Chat with friends and family
 Enable audio option to talk
 Enable vedio option to see
+Enable recording option
+Update the process
